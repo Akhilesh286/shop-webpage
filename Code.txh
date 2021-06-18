@@ -1,0 +1,42 @@
+html code
+card
+---------_-_----------__-_----_-
+<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3">
+<div class="p-4 pt-5 " style="padding-top: 5rem;">
+<div class="card" style="width: 100%; padding-top: 5rem;">
+<img class="card-img-top" src="https://www.netafimindia.com/bynder/00E33388-6E92-485B-8EEFAAAF53AB8652-capsicum-grown-in-greenhouse-close-up-photo-.jpg" alt="Card image cap">
+<div class="card-body">
+<h1 class="card-title">carrot </h1>
+<div class="input-group pt-2" style="float:left;">
+<div class="row">
+<div class="col-xl-12" style="width : 100%;">
+<div class="form-group" style=" width: 100%;">
+<label for="exampleFormControlSelect1"></label>
+<select class="form-control" id="exampleFormControlSelect1" style=" width: 100%;">
+<option style="width :100%;">kilogram</option>
+<option>2kg</option>
+<option>1kg</option>
+<option>750g</option>
+<option>500g</option>
+<option>250g</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row pt-3 p-4">
+<div class="col-xl-6" style="width:50%">
+<button type="button" class="btn btn-primary" style="width : 100%;">Buy</button>
+</div>
+<div class="col-xl-6 col-6 col-sm-6" style="width :50%;">
+
+<button style="width :100%;" type="button" class="btn btn-info">Info</button>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+---------_-_----------__-_----_-
